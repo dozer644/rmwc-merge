@@ -3,6 +3,6 @@ import Button from "../Button";
 
 export default (
   <Button uxpId="1" ripple raised style={{ width: "100%" }}>
-    Click me
+    I'm A Button
   </Button>
 );
