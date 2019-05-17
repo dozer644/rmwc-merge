@@ -6,7 +6,7 @@ import '@material/form-field/dist/mdc.form-field.css';
 
 function Checkbox(props) {
   return (
-      <CheckboxM {...props} onChange={props.onChange}>
+      <CheckboxM {...props} onChange={props.onChange} style={props.style}>
         {props.children}
       </CheckboxM>
   );
