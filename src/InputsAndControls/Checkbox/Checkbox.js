@@ -15,6 +15,7 @@ function Checkbox(props) {
 Checkbox.propTypes = {
     children: PropTypes.node,
     onChange: PropTypes.func,
+    style:PropTypes.string,
     id: PropTypes.string,
     disabled: PropTypes.bool,
     checked: PropTypes.bool,
