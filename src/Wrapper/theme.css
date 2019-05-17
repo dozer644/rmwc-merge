@@ -1,7 +1,7 @@
 :root {
-  --mdc-theme-primary: #303030;
-  --mdc-theme-secondary: #661fff;
-  --mdc-theme-error: #b00020;
+  --mdc-theme-primary: #00369D;
+  --mdc-theme-secondary: #00ACEC;
+  --mdc-theme-error: #C22A22;
   --mdc-theme-background: #fff;
   --mdc-theme-surface: #fff;
   --mdc-theme-on-primary: rgba(255, 255, 255, 1);
