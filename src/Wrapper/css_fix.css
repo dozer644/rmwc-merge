@@ -13,3 +13,7 @@
 .mdc-text-field--fullwidth:not(.mdc-text-field--textarea) .mdc-text-field__input {
     padding-left: 42px;
 }
+
+.mdc-form-field > label {
+    white-space: nowrap;
+}
