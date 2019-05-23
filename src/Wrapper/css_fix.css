@@ -17,3 +17,8 @@
 .mdc-form-field > label {
     white-space: nowrap;
 }
+
+.mdc-floating-label--float-above {
+    -webkit-transform: translateY(-100%) scale(0.75);
+    transform: translateY(-100%) scale(0.75);
+}
