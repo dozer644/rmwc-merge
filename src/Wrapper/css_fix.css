@@ -23,8 +23,8 @@
     transform: translateY(-100%) scale(0.75);
 }
 .mdc-text-field--fullwidth:not(.mdc-text-field--textarea) .mdc-text-field__input {
-    padding-left: 0;
+ 
 }
 .mdc-text-field .mdc-floating-label {
-    left: 0; 
+   
 }
